@@ -1,3 +1,0 @@
-constant
-primitive
-	^ 'primitive'

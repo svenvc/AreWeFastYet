@@ -1,3 +1,0 @@
-patterns
-parseNestedBlock
-	^ self nestedBlock.

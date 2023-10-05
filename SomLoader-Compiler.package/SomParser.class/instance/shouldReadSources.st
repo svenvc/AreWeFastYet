@@ -1,3 +1,0 @@
-accessing
-shouldReadSources
-	^ shouldReadSources

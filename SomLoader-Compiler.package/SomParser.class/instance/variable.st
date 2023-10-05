@@ -1,3 +1,0 @@
-patterns
-variable
-	^ self identifier

@@ -1,3 +1,0 @@
-accessing
-nextText
-	^ nextText asString

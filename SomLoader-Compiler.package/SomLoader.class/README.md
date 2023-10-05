@@ -1,1 +1,0 @@
-I load SOM Smalltalk into Squeak/Pharo images.

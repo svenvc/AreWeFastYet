@@ -1,3 +1,0 @@
-patterns
-argument
-	^ self variable

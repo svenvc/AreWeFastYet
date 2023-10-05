@@ -1,3 +1,0 @@
-actions
-classDefinitions
-	^ classDefinitions

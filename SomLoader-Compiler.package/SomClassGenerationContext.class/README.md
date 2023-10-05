@@ -1,1 +1,0 @@
-I represent a class that is currently parsed and I will create the final class object from this information.

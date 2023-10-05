@@ -1,3 +1,0 @@
-patterns
-literalString
-	^ self string
