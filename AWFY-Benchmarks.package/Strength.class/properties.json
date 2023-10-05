@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AbsoluteStrongest",
+		"AbsoluteWeakest",
+		"Required",
+		"StrengthConstants",
+		"StrengthTable",
+		"SymAbsoluteStrongest",
+		"SymAbsoluteWeakest",
+		"SymDefault",
+		"SymPreferred",
+		"SymRequired",
+		"SymStrongDefault",
+		"SymStrongPreferred",
+		"SymWeakDefault"
+	],
+	"instvars" : [
+		"symbolicValue",
+		"arithmeticValue"
+	],
+	"name" : "Strength",
+	"type" : "normal"
+}

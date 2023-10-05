@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "BinaryConstraint",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"scale",
+		"offset"
+	],
+	"name" : "ScaleConstraint",
+	"type" : "normal"
+}

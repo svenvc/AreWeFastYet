@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Benchmark",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "List",
+	"type" : "normal"
+}

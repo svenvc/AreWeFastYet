@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Scripting",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LastPrintedChar",
+		"OutputToTranscript",
+		"Position",
+		"PrintTarget"
+	],
+	"instvars" : [ ],
+	"name" : "ScriptConsole",
+	"type" : "normal"
+}

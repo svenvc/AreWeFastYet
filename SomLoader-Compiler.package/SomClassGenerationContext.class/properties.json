@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "StefanMarr 7/21/2016 13:09",
+	"super" : "Object",
+	"category" : "SomLoader-Compiler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"superName",
+		"isClassSide",
+		"instanceFields",
+		"instanceMethods",
+		"classFields",
+		"classMethods",
+		"theName"
+	],
+	"name" : "SomClassGenerationContext",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+patterns
+parseNestedBlock
+	^ self nestedBlock.

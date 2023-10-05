@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"total",
+		"numIterations",
+		"innerIterations",
+		"benchmarkSuite",
+		"name"
+	],
+	"name" : "Run",
+	"type" : "normal"
+}

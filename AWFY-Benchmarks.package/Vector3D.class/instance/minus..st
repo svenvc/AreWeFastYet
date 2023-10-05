@@ -1,0 +1,6 @@
+as yet unclassified
+minus: other
+
+    ^ Vector3D x: x - other x
+               y: y - other y
+               z: z - other z

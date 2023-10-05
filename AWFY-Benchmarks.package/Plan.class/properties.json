@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Vector",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Plan",
+	"type" : "normal"
+}

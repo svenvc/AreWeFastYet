@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RBObject",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"workIn",
+		"deviceIn"
+	],
+	"name" : "HandlerTaskDataRecord",
+	"type" : "normal"
+}

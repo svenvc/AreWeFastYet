@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SomLoader-Compiler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"BinaryOpSyms",
+		"KeywordSelectorSyms",
+		"SingleOpSyms"
+	],
+	"instvars" : [
+		"cgenc",
+		"sym",
+		"text",
+		"lexer",
+		"shouldReadSources"
+	],
+	"name" : "SomParser",
+	"type" : "normal"
+}

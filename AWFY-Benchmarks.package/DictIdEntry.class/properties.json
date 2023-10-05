@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DictEntry",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DictIdEntry",
+	"type" : "normal"
+}

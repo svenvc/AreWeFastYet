@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "JsonValue",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"names",
+		"values",
+		"table"
+	],
+	"name" : "JsonObject",
+	"type" : "normal"
+}

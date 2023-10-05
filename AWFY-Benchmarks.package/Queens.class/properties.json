@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Benchmark",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"freeMaxs",
+		"freeRows",
+		"freeMins",
+		"queenRows"
+	],
+	"name" : "Queens",
+	"type" : "normal"
+}

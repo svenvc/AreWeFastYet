@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "RBObject",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"packetPending",
+		"taskWaiting",
+		"taskHolding"
+	],
+	"name" : "TaskState",
+	"type" : "normal"
+}

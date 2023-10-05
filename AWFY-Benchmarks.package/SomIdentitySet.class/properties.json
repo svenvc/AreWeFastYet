@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SomSet",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SomIdentitySet",
+	"type" : "normal"
+}

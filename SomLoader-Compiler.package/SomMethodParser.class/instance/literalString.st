@@ -1,0 +1,3 @@
+patterns
+literalString
+	^ self string

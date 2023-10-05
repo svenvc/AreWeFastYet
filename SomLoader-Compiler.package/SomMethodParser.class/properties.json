@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SomParser",
+	"category" : "SomLoader-Compiler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SomMethodParser",
+	"type" : "normal"
+}

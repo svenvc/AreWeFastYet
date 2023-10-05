@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractConstraint",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"output",
+		"satisfied"
+	],
+	"name" : "UnaryConstraint",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+parserState
+	^ { sym. text }

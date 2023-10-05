@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Benchmark",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"piles",
+		"movesdone"
+	],
+	"name" : "Towers",
+	"type" : "normal"
+}

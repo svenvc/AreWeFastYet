@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "RBObject",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"taskList",
+		"currentTask",
+		"currentTaskIdentity",
+		"taskTable",
+		"tracing",
+		"layout",
+		"queuePacketCount",
+		"holdCount"
+	],
+	"name" : "Scheduler",
+	"type" : "normal"
+}

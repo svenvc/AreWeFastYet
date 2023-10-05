@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RBObject",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"control",
+		"count"
+	],
+	"name" : "IdleTaskDataRecord",
+	"type" : "normal"
+}

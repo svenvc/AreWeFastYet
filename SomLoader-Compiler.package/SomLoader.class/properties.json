@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "StefanMarr 7/22/2016 11:03",
+	"super" : "Object",
+	"category" : "SomLoader-Compiler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"classDefinitions"
+	],
+	"name" : "SomLoader",
+	"type" : "normal"
+}

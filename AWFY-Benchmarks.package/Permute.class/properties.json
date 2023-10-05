@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Benchmark",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"count",
+		"v"
+	],
+	"name" : "Permute",
+	"type" : "normal"
+}

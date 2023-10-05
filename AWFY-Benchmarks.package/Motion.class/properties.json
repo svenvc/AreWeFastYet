@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callsign",
+		"posOne",
+		"posTwo"
+	],
+	"name" : "Motion",
+	"type" : "normal"
+}

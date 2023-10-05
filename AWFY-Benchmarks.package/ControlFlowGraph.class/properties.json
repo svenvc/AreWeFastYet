@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "AWFY-Benchmarks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"basicBlockMap",
+		"startNode",
+		"edgeList"
+	],
+	"name" : "ControlFlowGraph",
+	"type" : "normal"
+}
